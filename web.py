@@ -1,2 +1,3 @@
 def dev()
-    print("study python happy"）
+    print("study python happy good"）
+    return
